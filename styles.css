@@ -6,5 +6,13 @@ body{
 	background-color:rgb(204,204,204);
 }
 .player_one{
-	background-color: rgb(255, 255, 255), 
+	background-color: rgb(255, 255, 255);
+	padding:7px;
+	border-radius:3px;
+	
+}
+.playlist{
+	background-color: rgb(255, 255, 255);
+	padding:7px;
+	border-radius:3px;
 }
