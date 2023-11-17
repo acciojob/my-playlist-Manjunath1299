@@ -7,8 +7,16 @@ body{
 }
 .player_one{
 	background-color: rgb(255, 255, 255);
-	padding:7px;
-	border-radius:3px;
+	padding:20px;
+	border-radius:10px;
+
+	
+}
+.player_two{
+	background-color: rgb(255, 255, 255);
+	padding:20px;
+	border-radius:10px;
+
 	
 }
 .playlist{
